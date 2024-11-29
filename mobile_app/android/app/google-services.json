@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510091620481",
+    "project_id": "cse471-664b0",
+    "storage_bucket": "cse471-664b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510091620481:android:0ab24cb11c5b837e4b5d80",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app.arnav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkZ3hO1_fOn_fhsnNg1FpMz9pY7alv7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
